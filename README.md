@@ -1,2 +1,2 @@
-# Examen-final-PROCESAMIENTO-DE-IMAGENES
-En este repositorio se encuentra el desarrollo en python del examen final de procesamiento de imagenes y visión.
+# Proyecto personal de procesamiento de imagenes.
+En este repositorio se encuentra el desarrollo en python de una pequeña actividad que tiene como fin entender un poco de segmentación en el procesamiento de imagenes.
